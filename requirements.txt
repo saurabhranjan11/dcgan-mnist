@@ -1,8 +1,9 @@
-tensorflow
+tensorflow-cpu
 matplotlib
 numpy
 pillow
 imageio
 glob2
 ipython
+
 
