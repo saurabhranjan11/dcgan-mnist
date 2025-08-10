@@ -1,4 +1,7 @@
-streamlit
 tensorflow
 matplotlib
 numpy
+pillow
+imageio
+glob2
+ipython
