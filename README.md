@@ -8,8 +8,10 @@ This project helped me understand how GANs work, including the roles of the gene
 
 ## Tech Stack
 
-- Python
-- TensorFlow / Keras
+- Python as PL
+- TensorFlow
+- ipython
+- glob
 - NumPy
 - Matplotlib
 - Google Colab
