@@ -45,10 +45,3 @@ The GAN consists of two parts:
 Both models are trained together so the generator improves over time and produces realistic images.
 
 ---
-
-## How to Run the Project
-
-### Install required libraries
-
-```bash
-pip install -r requirements.txt
